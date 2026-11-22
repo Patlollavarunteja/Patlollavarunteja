@@ -1,6 +1,6 @@
 # Hi 👋, I'm Patlolla Varun Teja
 
-## Aspiring Python Developer | SQL Developer | Software Engineer
+## Aspiring Developer | SQL Developer | Software Engineer
 
 🎓 B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 
