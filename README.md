@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate about Python, SQL, and Software Development
-- 🌱 Currently improving my Python, SQL, and Data Structures skills
+- 💻 Passionate about java ,Python, SQL, and Software Development
+- 🌱 Currently improving my java , Python, SQL, and Data Structures skills
 - 🚀 Interested in Backend Development, Database Management, and Software Engineering
 - 📚 Love building real-world projects to solve practical problems
 
@@ -20,10 +20,11 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+- Java
 - Python
 - SQL
 - C
-- Java
+
 
 ### Databases
 - MySQL
